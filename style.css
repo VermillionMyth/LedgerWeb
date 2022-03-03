@@ -1,0 +1,17 @@
+body {
+    color: white;
+    background: #21222c;
+} 
+img {
+    border-radius: 5px;
+    float: center; 
+    margin-right: 10px;
+}
+
+h2 {
+    color: #abb2bf
+}
+
+h1 {
+    color: #7d8d9e
+}
